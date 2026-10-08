@@ -236,33 +236,6 @@ These findings provide an initial overview of workforce conditions and can be us
 
 ---
 
-## 📊 Dashboard Features
-
-The dashboard allows users to interactively explore the data using several filters.
-
-### Available Filters
-
-**Gender**
-- Female
-- Male
-
-**Attrition Risk Level**
-- Low Risk
-- Medium Risk
-- High Risk
-
-**Job Role**
-- Analyst
-- Data Scientist
-- HR Specialist
-- Manager
-- Sales Executive
-- Software Engineer
-
-Users can combine these filters to explore specific employee groups and examine changes in the dashboard metrics.
-
----
-
 ## 📁 Autor
 
-*Indah Marsya Fitadea*
+Indah Marsya Fitadea
