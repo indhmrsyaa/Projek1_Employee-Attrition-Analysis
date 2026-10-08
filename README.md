@@ -235,6 +235,6 @@ These findings provide an initial overview of workforce conditions and can be us
 
 ---
 
-## 📁 Autor
+## 📁 Author
 
 Indah Marsya Fitadea
