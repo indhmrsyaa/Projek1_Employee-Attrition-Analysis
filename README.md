@@ -214,7 +214,6 @@ The dashboard allows users to interactively explore the data using several filte
 - Sales Executive
 - Software Engineer
 
-Users can combine these filters to explore specific employee groups and examine changes in the dashboard metrics.
 ---
 
 ## 💡 Key Insights
